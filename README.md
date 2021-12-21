@@ -5,9 +5,9 @@
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | Project name                   | Date             | Contents                       | Tech | Organizations                        |
 |--------------------------------|------------------|--------------------------------|------|--------------------------------------|
-| smu-sw-engineering             | 2021.04~ 2021.06 | Compground Management Apps     |[![Android Studio](https://img.shields.io/static/v1?label=&message=Andoird&color=3DDC84&logo=android&logoColor=FFFFFF)](https://developer.android.com/studio?hl=ko)| Smu-sw-4                             |
-| battery shell checking service | 2021.06~         | Battery shell checking Project |![C](https://img.shields.io/static/v1?label=&message=C&color=lightgrey&logo=C&logoColor=A8B9CC)      | Smu-Network Information System Labs  |
-|                                |                  |                                |      |     |
+| smu-sw-engineering              | 2021.04~ 2021.06 | Compground Management Apps     |[![Android Studio](https://img.shields.io/static/v1?label=&message=Andoird&color=3DDC84&logo=android&logoColor=FFFFFF)](https://developer.android.com/studio?hl=ko)| Smu-sw-4                             |
+| battery shell checking service  | 2021.06~         | Battery shell checking Project |![C](https://img.shields.io/static/v1?label=&message=C&color=lightgrey&logo=C&logoColor=A8B9CC)      | Smu-Network Information System Labs  |
+| Unix_Socket Programming Todolist| 2021.12~ 2021.12            | Unix Socket Progamming for Todolist with SQLITE3                        |![C](https://img.shields.io/static/v1?      | Jung-kyoung-Jae   |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 
