@@ -6,8 +6,9 @@
 | Project name                   | Date             | Contents                       | Tech | Organizations                        |
 |--------------------------------|------------------|--------------------------------|------|--------------------------------------|
 | smu-sw-engineering              | 2021.04~ 2021.06 | Compground Management Apps     |[![Android Studio](https://img.shields.io/static/v1?label=&message=Andoird&color=3DDC84&logo=android&logoColor=FFFFFF)](https://developer.android.com/studio?hl=ko)| Smu-sw-4                             |
-| battery shell checking service  | 2021.06~         | Battery shell checking Project |![C](https://img.shields.io/static/v1?label=&message=C&color=lightgrey&logo=C&logoColor=A8B9CC)      | Smu-Network Information System Labs  |
 | Unix_Socket Programming Todolist| 2021.12~ 2021.12            | Unix Socket Progamming for Todolist with SQLITE3                        |![C](https://img.shields.io/static/v1?label=&message=C&color=lightgrey&logo=C&logoColor=A8B9CC)         | Jung-kyoung-Jae   |
+| SMU-battery shell checking service  | 2021.06~         | Battery shell checking Project |![C](https://img.shields.io/static/v1?label=&message=C&color=lightgrey&logo=C&logoColor=A8B9CC)      | Smu-Network Information System Labs  |
+| SMU-TLS login HomePage make   | 2021.12 ~           | Make HomePage using TLS Coding | ![C](https://img.shields.io/static/v1?label=&message=C&color=lightgrey&logo=C&logoColor=A8B9CC) ![C++](img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp)| SMU-Graduation-Security|
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 
