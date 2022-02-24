@@ -14,10 +14,10 @@ Security 전문가를 꿈꾸고 있는 상명대학교 대학생 정경재입니
   
   ### Tools
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SQLite-white?style=for-the-badge&logo=SQLite&logoColor=003B57"/> 
   
   #### Environment 
-  <img src="https://img.shields.io/badge/Windows-lightgray?style=for-the-badge&logo=Windows&logoColor=0078D6"/> <img src = "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Kali Linux-557C94?style=for-the-badge&logo=Kali Linux&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Windows-lightgray?style=for-the-badge&logo=Windows&logoColor=0078D6"/> <img src = "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Kali Linux-557C94?style=for-the-badge&logo=Kali Linux&logoColor=white"/> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white"/> 
   
   #### IDE
   <img src="https://img.shields.io/badge/Visual Studio-white?style=for-the-badge&logo=Visual Studio&logoColor=5C2D91"/> <img src="https://img.shields.io/badge/Visual Studio Code-white?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"/> <img src = "https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> 
