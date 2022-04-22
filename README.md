@@ -6,12 +6,10 @@ Security 전문가를 꿈꾸고 있는 상명대학교 대학생 정경재입니
 <p float="none">  
   
   ### Learned Languages    
-  <img src="https://img.shields.io/badge/C-lightgrey?style=for-the-badge&logo=C&logoColor=A8B9CC"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor="/> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Go-lightgray?style=for-the-badge&logo=Go&logoColor=00ADD8"/>
+  <img src="https://img.shields.io/badge/C-lightgrey?style=for-the-badge&logo=C&logoColor=A8B9CC"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor="/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Go-lightgray?style=for-the-badge&logo=Go&logoColor=00ADD8"/>
   
-  ### Learning Laguages
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>   
+  ### Using Laguages
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor="/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> 
   
   ### Tools
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
