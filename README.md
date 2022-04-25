@@ -22,6 +22,8 @@ Security 전문가를 꿈꾸고 있는 상명대학교 대학생 정경재입니
   <img src="https://img.shields.io/badge/Visual Studio-white?style=for-the-badge&logo=Visual Studio&logoColor=5C2D91"/> <img src="https://img.shields.io/badge/Visual Studio Code-white?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"/> <img src = "https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> 
 </p>
   
+  #### Doing Projects
+  
 
 ## 현재까지 진행한 Project 목록<div align="center"> <!--가운데 정렬-->
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
