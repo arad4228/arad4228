@@ -23,7 +23,11 @@ Security 전문가를 꿈꾸고 있는 상명대학교 대학생 정경재입니
 </p>
   
   #### Doing Projects
-  
+  | Project name                               | Date             | Contents                                      | Tech    |
+  |--------------------------------------------|------------------|-----------------------------------------------|---------|
+  | BackJoon problem recommendation(algorithm) | 2022.03~ 2022.06 | BigData Recommended Algorithm Problem Project | Python3 |
+  | SMU Graduation Projet                      | 2022.03~ 2022.09 | Make a Bank Site Using TLS V1.2 For Education | Spring, React |
+
 
 ## 현재까지 진행한 Project 목록<div align="center"> <!--가운데 정렬-->
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
