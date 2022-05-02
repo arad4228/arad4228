@@ -38,14 +38,16 @@ Security 전문가를 꿈꾸고 있는 상명대학교 대학생 정경재입니
 | [GO JobScrapper](https://github.com/arad4228/Study_language/tree/main/Go/Project5)                   | 2022.03.05    | Using Go Make Job Scrapper    | <img src="https://img.shields.io/badge/Go-lightgray?style=flat-square&logo=Go&logoColor=00ADD8"/> | Jung-Kyoun-Jae  | Clone Coding & All Doing |
 | [SMU-battery shell checking service](https://github.com/smu-graduation-project)  | 2021.06~ 2022.03.01      | Battery shell checking Project |![C](https://img.shields.io/static/v1?label=&message=C&color=lightgrey&logo=C&logoColor=A8B9CC)![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)      | [Smu-Network Information System Labs](https://github.com/smu-graduation-project) | End Device Coding & Make End to GateWay Communication & Make Security Communication |
 | [SMU-TLS login HomePage make](https://github.com/SMU-Graduation-Security-Project)   | 2021.12 ~           | Make HomePage using TLS Coding | <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>| [SMU-Graduation-Security](https://github.com/SMU-Graduation-Security-Project)| Make Backend Using Spring Framework & TLS V1.2 Connection & Making PasstheHash Logic |
-
+  
+  
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arad4228&show_icons=true&theme=github_dark)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=arad4228)](https://solved.ac/arad4228/)  
   
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arad4228&show_icons=true&theme=github_dark)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farad4228&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farad4228&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **arad4228/arad4228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
