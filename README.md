@@ -23,11 +23,11 @@ Security 전문가를 꿈꾸고 있는 상명대학교 대학생 정경재입니
 </p>
   
   #### Doing Projects
-  | Project name                               | Date              | Contents                                      | Tech           | Role |
-  |--------------------------------------------|-------------------|-----------------------------------------------|----------------|------|
-  | BackJoon problem recommendation(algorithm) | 2022.03 ~ 2022.06 | BigData Recommended Algorithm Problem Project | Python3        | Make BackJoon User Data Crawling & Bug Fix |
-  | SMU Graduation Projet                      | 2022.03 ~ 2022.09 | Make a Bank Site Using TLS V1.2 For Education | Spring, React  | Backend All tech Using Spring Framework & Security --> TLSv1.2 and PasstheHash & blockchain login (to be Making)|
-  | Django Blog Web Project                    | 2022.03 ~ 2022.06 | Using Django Making a Blog Backend            | Django(Python) | Backend All tech |
+  | Project name                               | Date              | Contents                                          | Tech           | Role |
+  |--------------------------------------------|-------------------|---------------------------------------------------|----------------|------|
+  | BackJoon problem recommendation(algorithm) | 2022.03 ~ 2022.06 | BigData Recommended Algorithm Problem Project     | Python3        | Make BackJoon User Data Crawling & Bug Fix |
+  | SMU Graduation Project                      | 2022.03 ~ 2022.09 | Make a Bank Site Using TLS V1.2 For Education    | Spring, React  | Backend All tech Using Spring Framework & Security --> TLSv1.2 and PasstheHash & blockchain login (to be Making)|
+  | Django Blog Web Project                    | 2022.03 ~ 2022.06 | Using Django Making a Blog Backend For discipline | Django(Python) | Backend All tech |
 
 
 ## 현재까지 진행한 Project 목록<div align="center"> <!--가운데 정렬-->
