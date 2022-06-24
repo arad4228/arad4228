@@ -27,9 +27,7 @@ Security 전문가를 꿈꾸고 있는 상명대학교 대학생 정경재입니
   #### Doing Projects
   | Project name                               | Date              | Contents                                          | Tech           | Role |
   |--------------------------------------------|-------------------|---------------------------------------------------|----------------|------|
-  | BackJoon problem recommendation(algorithm) | 2022.03 ~ 2022.06 | BigData Recommended Algorithm Problem Project     | Python3        | Make BackJoon User Data Crawling & Bug Fix |
   | SMU Graduation Project                      | 2022.03 ~ 2022.09 | Make a Bank Site Using TLS V1.2 For Education    | Spring, React  | Backend All tech Using Spring Framework & Security --> TLSv1.2 and PasstheHash & blockchain login (to be Making)|
-  | Django Web Project                          | 2022.05.20 ~ 2022.06 | Using Django Making Backend Web and distribution With Kt PaasTa  | Django(Python) | All |
 
 
 ## 현재까지 진행한 Project 목록<div align="center"> <!--가운데 정렬-->
@@ -42,7 +40,8 @@ Security 전문가를 꿈꾸고 있는 상명대학교 대학생 정경재입니
 | [SMU-battery shell checking service](https://github.com/smu-graduation-project)  | 2021.06~ 2022.03.01      | Battery shell checking Project |![C](https://img.shields.io/static/v1?label=&message=C&color=lightgrey&logo=C&logoColor=A8B9CC) ![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)      | [Smu-Network Information System Labs](https://github.com/smu-graduation-project) | End Device(Lora) Coding & Make End to GateWay Communication & Make Security Communication |
 | [SMU-TLS login HomePage make](https://github.com/SMU-Graduation-Security-Project)   | 2021.12 ~           | Make HomePage using TLS Coding | <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>  ![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=React&logoColor=#003B57)| [SMU-Graduation-Security](https://github.com/SMU-Graduation-Security-Project)|  Make Backend Using Spring Framework & TLS V1.2 Connection & Making PasstheHash Logic |
  | [Django Blog Web Project](https://github.com/arad4228/DjangoBlog)       | 2022.03 ~ 2022.05.20 | Using Django Making a Blog Backend For discipline | ![Django](https://img.shields.io/static/v1?label=&message=Django&color=61DAFB&logo=Django&logoColor=#092E20) | Jung KyoungJae | Backend All tech |
- 
+ | [BackJoon problem recommendation(algorithm)](https://github.com/arad4228/recommand-problem) | 2022.03 ~ 2022.06 | BigData Recommended Algorithm Problem Project     | <img src="https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> ![Django](https://img.shields.io/static/v1?label=&message=Django&color=61DAFB&logo=Django&logoColor=#092E20)        | BigData Team |Make BackJoon User Data Crawling & Bug Fix & Recommand System & Backend |
+  | [Django Web Project](https://github.com/arad4228/DjangoWebWithPassta)| 2022.05.20 ~ 2022.06.20 | Using Django Making Backend Web and distribution With Kt PaasTa | ![Django](https://img.shields.io/static/v1?label=&message=Django&color=61DAFB&logo=Django&logoColor=#092E20) | JungKyoungjae  | All |
   
 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
