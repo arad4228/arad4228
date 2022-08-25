@@ -1,7 +1,8 @@
 ## Hi there 👋
 안녕하세요. 
 Security 전문가를 꿈꾸고 있는 상명대학교 대학생 정경재입니다.  
-현재 BoB 11기 보안제품개발 트랙에 있습니다.     
+현재 BoB 11기 보안제품개발 트랙에 있습니다.
+ 
   
 ## 🌱 현재 저의 상황은요~ ...</br>
 <p float="none">  
@@ -26,7 +27,7 @@ Security 전문가를 꿈꾸고 있는 상명대학교 대학생 정경재입니
 
   #### Programs
   ## BoB 11
-  <img src="https://www.kitribob.kr/static/front/images/about/bob-logo.png"> BoB 관련 파일은 BoB가 마무리되면 조직이 Open될 예정입니다.
+  <img src="https://www.kitribob.kr/static/front/images/about/bob-logo.png">
   </p>
   
   #### Doing Projects
