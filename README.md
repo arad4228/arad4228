@@ -29,6 +29,10 @@ Security 전문가를 꿈꾸고 있는 상명대학교 대학생 정경재입니
   ## BoB 11
   <img src="https://www.kitribob.kr/static/front/images/about/bob-logo.png">
   </p>
+
+  #### Program's Org
+  ## Best Of Best 11
+  https://github.com/BoBHomeworkOrg
   
   #### Doing Projects
   | Project name                               | Date              | Contents                                          | Tech           | Role |
@@ -50,7 +54,6 @@ Security 전문가를 꿈꾸고 있는 상명대학교 대학생 정경재입니
  | [BackJoon problem recommendation(algorithm) with Django](https://github.com/arad4228/problem_recommand_django/tree/main) | 2022.06 ~ 2022.06 | BigData Recommended Algorithm Problem Project     | <img src="https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> ![Django](https://img.shields.io/static/v1?label=&message=Django&color=61DAFB&logo=Django&logoColor=#092E20)        | BigData Team 5 | Help Make Django Backend |
  | [Django Web Project](https://github.com/arad4228/DjangoWebWithPassta)| 2022.05.20 ~ 2022.06.20 | Using Django Making Backend Web and distribution With Kt PaasTa | ![Django](https://img.shields.io/static/v1?label=&message=Django&color=61DAFB&logo=Django&logoColor=#092E20) | JungKyoungjae  | All |
   
-https://github.com/BoBHomeworkOrg
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 <div align="center">
   
