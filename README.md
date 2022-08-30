@@ -32,7 +32,7 @@ Security 전문가를 꿈꾸고 있는 상명대학교 대학생 정경재입니
 
   #### Program's Org
   1. Best Of Best 11
-  https://github.com/BoBHomeworkOrg
+  <img src="https://www.kitribob.kr/static/front/images/about/bob-logo.png">  https://github.com/BoBHomeworkOrg
   
   #### Doing Projects
   | Project name                               | Date              | Contents                                          | Tech           | Role |
