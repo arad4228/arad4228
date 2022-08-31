@@ -27,7 +27,7 @@ Security 전문가를 꿈꾸고 있는 상명대학교 대학생 정경재입니
 
   #### Programs
   ## BoB 11
-  <img src="https://www.kitribob.kr/static/front/images/about/bob-logo.png">
+  <img src="https://www.kitribob.kr/static/front/images/about/bob-logo.png" width=150px>
   </p>
 
   #### Program's Org
