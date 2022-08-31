@@ -26,13 +26,14 @@ Security 전문가를 꿈꾸고 있는 상명대학교 대학생 정경재입니
   <img src="https://img.shields.io/badge/Visual Studio-white?style=for-the-badge&logo=Visual Studio&logoColor=5C2D91"/> <img src="https://img.shields.io/badge/Visual Studio Code-white?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"/> <img src = "https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> 
 
   #### Programs
-  ## BoB 11
   <img src="https://www.kitribob.kr/static/front/images/about/bob-logo.png" width=150px>
   </p>
 
   #### Program's Org
-  1. Best Of Best 11
-  <img src="https://www.kitribob.kr/static/front/images/about/bob-logo.png">  https://github.com/BoBHomeworkOrg
+  1. [Best Of Best 11 Common + Security Dev's](https://github.com/BoBHomeworkOrg)  
+     BoB 11기 공통 과제 및 보안제품 개발 트랙 과제 모음
+  2. [Best Of Best 11 Network](https://github.com/BoBSecurityDevForLees)  
+     BoB 11기 이경문 멘토님 과제 모음
   
   #### Doing Projects
   | Project name                               | Date              | Contents                                          | Tech           | Role |
