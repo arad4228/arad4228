@@ -39,7 +39,7 @@ Best Of Best(BoB)11기 보안제품개발 트랙을 진행하는 정경재입니
   #### Doing Projects
   | Project name                               | Date              | Contents                                          | Tech           | Role |
   |--------------------------------------------|-------------------|---------------------------------------------------|----------------|------|
-  | SMU Graduation Project                      | 2022.03 ~ 2022.09 | Make a Bank Site Using TLS V1.2 For Education    | Spring, React  | Backend All tech Using Spring Framework & Security --> TLSv1.2 and PasstheHash & blockchain login (to be Making)|
+  
 
 
 ## 현재까지 진행한 Project 목록<div align="center"> <!--가운데 정렬-->
@@ -50,12 +50,13 @@ Best Of Best(BoB)11기 보안제품개발 트랙을 진행하는 정경재입니
 | [Unix_Socket Programming Todolist](https://github.com/arad4228/Unix_Socket_Todolist)| 2021.12~ 2021.12            | Unix Socket Progamming for Todolist with SQLITE3                        |![C](https://img.shields.io/static/v1?label=&message=C&color=lightgrey&logo=C&logoColor=A8B9CC) <img src="https://img.shields.io/badge/SQLite-white?style=flat-square&logo=SQLite&logoColor=003B57"/>          | Jung kyoungJae   | All Doing |
 | [GO JobScrapper](https://github.com/arad4228/Study_language/tree/main/Go/Project5)                   | 2022.03.05    | Using Go Make Job Scrapper    | <img src="https://img.shields.io/badge/Go-lightgray?style=flat-square&logo=Go&logoColor=00ADD8"/> | Jung KyounJae  | Clone Coding & All Doing |
 | [SMU-battery shell checking service](https://github.com/smu-graduation-project)  | 2021.06~ 2022.03.01      | Battery shell checking Project |![C](https://img.shields.io/static/v1?label=&message=C&color=lightgrey&logo=C&logoColor=A8B9CC) ![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)      | [Smu-Network Information System Labs](https://github.com/smu-graduation-project) | End Device(Lora) Coding & Make End to GateWay Communication & Make Security Communication |
-| [SMU-TLS login HomePage make](https://github.com/SMU-Graduation-Security-Project)   | 2021.12 ~           | Make HomePage using TLS Coding | <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>  ![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=React&logoColor=#003B57)| [SMU-Graduation-Security](https://github.com/SMU-Graduation-Security-Project)|  Make Backend Using Spring Framework & TLS V1.2 Connection & Making PasstheHash Logic |
+| [SMU-TLS login HomePage make](https://github.com/SMU-Graduation-Security-Project)   | 2021.12 ~           | Make HomePage using TLS Coding | <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>  | [SMU-Graduation-Security](https://github.com/SMU-Graduation-Security-Project)|  Make Backend Using Spring Framework & TLS V1.2 Connection & Making PasstheHash Logic |
  | [Django Blog Web Project](https://github.com/arad4228/DjangoBlog)       | 2022.03 ~ 2022.05.20 | Using Django Making a Blog Backend For discipline | ![Django](https://img.shields.io/static/v1?label=&message=Django&color=61DAFB&logo=Django&logoColor=#092E20) | Jung KyoungJae | Backend All tech |
  | [BackJoon problem recommendation(algorithm)](https://github.com/arad4228/recommand-problem) | 2022.03 ~ 2022.06 | BigData Recommended Algorithm Problem Project | <img src="https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> | BigData Team 5 | Make BackJoon User Data Crawling & Crawling Bug Fix & Recommand System |
  | [BackJoon problem recommendation(algorithm) with Django](https://github.com/arad4228/problem_recommand_django/tree/main) | 2022.06 ~ 2022.06 | BigData Recommended Algorithm Problem Project     | <img src="https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> ![Django](https://img.shields.io/static/v1?label=&message=Django&color=61DAFB&logo=Django&logoColor=#092E20)        | BigData Team 5 | Help Make Django Backend |
  | [Django Web Project](https://github.com/arad4228/DjangoWebWithPassta)| 2022.05.20 ~ 2022.06.20 | Using Django Making Backend Web and distribution With Kt PaasTa | ![Django](https://img.shields.io/static/v1?label=&message=Django&color=61DAFB&logo=Django&logoColor=#092E20) | JungKyoungjae  | All |
-  
+ | SMU Graduation Project                      | 2022.03 ~ 2022.09 | Make a Bank Site Using TLS V1.2 For Education    | Spring, React  | EmperorPenguin | Backend All tech Using Spring Framework & Security --> TLSv1.2 and PasstheHash & blockchain login (to be Making)|
+ 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 <div align="center">
   
