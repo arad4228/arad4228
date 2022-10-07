@@ -59,8 +59,8 @@ Best Of Best(BoB)11기 보안제품개발 트랙을 진행하는 정경재입니
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 <div align="center">
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=arad4228)](https://solved.ac/arad4228/)  
-  
+<!--   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=arad4228)](https://solved.ac/arad4228/)  
+   -->
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arad4228&show_icons=true&theme=github_dark)
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farad4228&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
