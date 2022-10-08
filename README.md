@@ -38,7 +38,7 @@ Best Of Best(BoB)11기 보안제품개발 트랙을 진행하는 정경재입니
   #### Doing Projects
   | Project name                               | Date              | Contents                                          | Tech           | Role |
   |--------------------------------------------|-------------------|---------------------------------------------------|----------------|------|
-  | Document type malware detection solution   | 2022-09~          | Document type malware detection solution with application virtualization | <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> | Make Static Engine |
+  | Document type malware detection solution   | 2022-09~          | Document type malware detection solution with application virtualization | <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> | Implement Static Engine |
 
 
 ## 현재까지 진행한 Project 목록<div align="center"> <!--가운데 정렬-->
