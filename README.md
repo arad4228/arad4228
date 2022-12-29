@@ -37,7 +37,6 @@ Security의 전문가를 꿈꾸고 있는 고려대학교 정보보호 대학원
   #### Doing Projects
   | Project name                               | Date              | Contents                                          | Tech           | Role |
   |--------------------------------------------|-------------------|---------------------------------------------------|----------------|------|
-  | Document type malware detection solution   | 2022-09~          | Document type malware detection solution with application virtualization | <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> | Implement Document Malware Detection Static Engine |
 				
 
 ## 현재까지 진행한 Project 목록<div align="center"> <!--가운데 정렬-->
