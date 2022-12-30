@@ -1,6 +1,7 @@
 # Hi there 👋
 안녕하세요.  
 Security의 전문가를 꿈꾸고 있는 고려대학교 정보보호 대학원생 Best Of Best(BoB)11기 보안제품개발 트랙을 진행하는 정경재입니다.  
+
 ## 🌱 현재 저의 상황은요~ ...</br>
 <p float="none">  
   
