@@ -5,7 +5,6 @@ Security의 전문가를 꿈꾸고 있는 고려대학교 정보보호 대학원
 저는 양자내성암호(Open Quantum Safe), 클라우드 보안(Cloud Security), 사용자 인증(User Auth), 블록체인(BlockChain) 분야등 다양한 보안분야에 관심이 있습니다.
 또한 ISMS, ISMS-P 인증도 많은 관심을 가지고 있습니다.
 
-
 ## 🌱 현재 저의 상황은요~ </br>
 <p float="none">  
   
