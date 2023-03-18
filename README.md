@@ -5,7 +5,7 @@
 또한 2023 Best Of Best(BoB)11기 보안제품개발 트랙에 속해있었습니다.  
 저는 다양한 보안분야 중 양자내성암호(Open Quantum Safe), 클라우드 보안(Cloud Security), 사용자 인증(User Authentication), 접근제한(Access Control),  블록체인(BlockChain) 분야 등 다양한 보안분야에 많은 관심을 가지고 공부하고 있습니다.  
 또한 개인적으로 ISMS, ISMS-P 인증을 비롯한 개인정보 인증 분야도 추가적으로 공부하고 있습니다.  
-
+  
 ## 🌱 현재 저의 상황은요~ </br>
 <p float="none">  
   
